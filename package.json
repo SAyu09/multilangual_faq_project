@@ -10,6 +10,7 @@
         "test": "jest"
     },
     "dependencies": {
+        "@google-cloud/translate": "^8.5.0",
         "axios": "^1.2.0",
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
