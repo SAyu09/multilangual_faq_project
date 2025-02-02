@@ -1,0 +1,61 @@
+import winston from 'winston';
+import path from 'path';
+
+// Create logs directory if not exists
+const logDirectory = path.join(__dirname, '../../logs');
+import fs from 'fs';
+if (!fs.existsSync(logDirectory)) {
+  fs.mkdirSync(logDirectory);
+}
+
+// Define the logger configuration
+const logger = winston.createLogger({
+  level: 'info', // Log level: info, debug, warn, error
+  format: winston.format.combine(
+    winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }), // Timestamp format
+    winston.format.printf(
+      (info) => `[${info.timestamp}] ${info.level}: ${info.message}` // Custom log format
+    )
+  ),
+  transports: [
+    // Write all logs with level 'info' and below to 'app.log' file
+    new winston.transports.File({
+      filename: path.join(logDirectory, 'app.log'),
+      level: 'info',
+      maxsize: 5 * 1024 * 1024, // Max file size: 5 MB
+      maxFiles: 3, // Keep 3 log files, rotate after that
+    }),
+    // Log all errors to a separate 'error.log' file
+    new winston.transports.File({
+      filename: path.join(logDirectory, 'error.log'),
+      level: 'error',
+    }),
+    // Log to console (in development)
+    new winston.transports.Console({
+      level: 'debug',
+      format: winston.format.combine(
+        winston.format.colorize(),
+        winston.format.simple()
+      ),
+    }),
+  ],
+});
+
+// You can add additional methods to the logger if necessary
+export const logInfo = (message) => {
+  logger.info(message);
+};
+
+export const logError = (message) => {
+  logger.error(message);
+};
+
+export const logWarn = (message) => {
+  logger.warn(message);
+};
+
+export const logDebug = (message) => {
+  logger.debug(message);
+};
+
+export default logger;

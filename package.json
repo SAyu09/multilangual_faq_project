@@ -1,0 +1,49 @@
+{
+    "name": "multilingual-faq-api",
+    "version": "1.0.0",
+    "description": "API for managing multilingual FAQs with Node.js, Express, and MongoDB",
+    "main": "src/server.mjs",
+    "type": "module",
+    "scripts": {
+        "start": "node --experimental-modules src/server.mjs",
+        "dev": "nodemon --experimental-modules src/server.mjs",
+        "test": "jest"
+    },
+    "dependencies": {
+        "axios": "^1.2.0",
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "joi": "^17.5.0",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^7.1.2",
+        "winston": "^3.3.3"
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint": "^8.22.0",
+        "jest": "^29.7.0",
+        "mongoose-mock": "^0.4.0",
+        "nodemon": "^2.0.20",
+        "prettier": "^2.7.1",
+        "supertest": "^6.3.4"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/multilingual-faq-api.git"
+    },
+    "author": "Your Name <your.email@example.com>",
+    "keywords": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "API",
+        "Multilingual",
+        "FAQ"
+    ]
+}

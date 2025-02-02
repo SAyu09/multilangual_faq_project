@@ -1,0 +1,37 @@
+import winston from 'winston';
+import path from 'path';
+
+const logDirectory = path.join(__dirname, '../../logs');
+if (!fs.existsSync(logDirectory)) {
+  fs.mkdirSync(logDirectory);
+}
+
+// Create a Winston logger instance
+const logger = winston.createLogger({
+  level: 'error',  
+  format: winston.format.combine(
+    winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }), // Timestamp format
+    winston.format.printf(({ timestamp, level, message }) => {
+      return `${timestamp} [${level}]: ${message}`;
+    })
+  ),
+  transports: [
+    // Log to a file called 'error.log' in the 'logs' directory
+    new winston.transports.File({
+      filename: path.join(logDirectory, 'error.log'),
+      level: 'error', 
+      maxsize: 5242880, 
+      maxFiles: 5, 
+    }),
+    // Console logging for error messages during development
+    new winston.transports.Console({
+      level: 'error',
+      format: winston.format.combine(
+        winston.format.colorize(),
+        winston.format.simple()
+      ),
+    })
+  ],
+});
+
+export default logger;
