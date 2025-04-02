@@ -12,7 +12,7 @@
  * @param {number} statusCode - The HTTP status code (defaults to 200).
  * @returns {object} - The formatted response object.
  */
-export const successResponse = (data = {}, message = "Request successful", statusCode = 200) => {
+export const ApiResponse = (data = {}, message = "Request successful", statusCode = 200) => {
     return {
       status: "success",
       message,

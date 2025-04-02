@@ -49,4 +49,4 @@ faqSchema.methods.updateFaq = async function (updatedFaqData) {
 // Define the FAQ model based on the schema
 const FAQ = mongoose.model('FAQ', faqSchema);
 
-export const FAQModel = FAQ;
+export default FAQ;

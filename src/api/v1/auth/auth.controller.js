@@ -1,8 +1,8 @@
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import { User } from '../../../models/User.js';
-import { generateAccessToken, generateRefreshToken } from '../../../utils/tokenUtils.js';
-import { sendEmail } from '../../../utils/emailUtils.js';
+import { generateAccessToken, generateRefreshToken } from '../../../utlis/tokenutils.js';
+import { sendEmail } from '../../../utlis/emailUtils.js';
 
 /**
  * @desc    Register a new user

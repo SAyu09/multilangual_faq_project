@@ -18,7 +18,7 @@ const redisOptions = {
 };
 
 // Create Redis client
-export const redisClient = createClient(redisOptions);
+export const cache = createClient(redisOptions);
 
 /**
  * Connects to Redis.
@@ -26,11 +26,29 @@ export const redisClient = createClient(redisOptions);
  */
 export const connectRedis = async () => {
   try {
-    await redisClient.connect();
-    logger.info('✅ Redis connection established.');
+    global.redisClient = await createClient({
+      password: process.env.REDIS_PASSWORD_PROD,
+      socket: {
+        host: process.env.REDIS_HOST_PROD,
+        port: process.env.REDIS_PORT_PROD,
+      },
+    });
+    global.redisClient.connect();
+    // Event listener for successful connection
+    global.redisClient.on("connect", () => {
+      console.log("Connected to Redis");
+    });
+    // Event listener for connection error
+    global.redisClient.on("error", (err) => {
+      console.error("Error connecting to Redis:", err);
+    });
+
+    // Event listener for when the connection is closed
+    global.redisClient.on("end", () => {
+      console.log("Connection to Redis closed");
+    });
   } catch (error) {
-    logger.error(`❌ Redis connection failed: ${error.message}`);
-    process.exit(1); // Exit process on failure
+    console.error(error);
   }
 };
 

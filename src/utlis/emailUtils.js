@@ -20,7 +20,7 @@ const transporter = nodemailer.createTransport({
  * @param {string} text - The body of the email (plain text)
  * @returns {Promise} - The email sending result
  */
-export const sendPlainTextEmail = async (to, subject, text) => {
+export const sendEmail = async (to, subject, text) => {
   const mailOptions = {
     from: process.env.EMAIL_USER, // The sender's email
     to,

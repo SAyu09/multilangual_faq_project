@@ -1,0 +1,858 @@
+2025-03-25 17:24:33 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-25 17:24:54 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-25 17:56:31 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:53:34 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:54:31 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:54:32 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:54:34 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:54:42 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:54:56 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:55:23 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:58:06 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:58:08 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 13:58:13 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 14:58:35 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 14:59:09 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 15:12:21 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 15:12:51 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 15:17:02 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 15:19:14 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 15:27:31 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 15:27:35 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:11:21 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:13:21 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:13:32 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:14:08 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:14:10 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:14:12 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:14:40 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:14:50 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:14:59 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:00 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:04 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:15 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:16 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:27 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:29 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:30 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:33 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:35 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:15:37 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:00 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:14 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:19 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:20 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:22 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:25 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:16:28 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:21:47 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:22:13 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:27:00 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:28:11 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:30:59 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:31:03 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:31:44 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:32:15 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:52:25 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:52:30 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:52:33 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:52:38 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:52:40 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:53:06 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:53:14 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:53:17 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:54:17 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:54:19 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:55:03 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:55:04 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 16:55:51 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:00:05 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:00:16 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:05:26 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:09:01 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:14:37 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:14:45 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:15:13 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:21:41 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:21:45 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:21:48 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:22:04 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:22:05 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:22:09 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:22:13 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:22:18 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:22:20 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-26 17:41:10 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:21:57 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:22:04 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:22:07 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:36:10 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:46:21 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:46:35 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:48:30 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:48:33 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:48:37 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:49:03 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:51:21 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:51:24 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:51:30 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:52:09 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:52:27 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:52:29 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:52:38 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:54:36 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:15 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:17 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:18 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:19 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:21 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:23 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:25 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:38 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:51 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:55:52 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:56:07 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 09:56:08 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:55:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:23:39 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:23:45 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:44:53 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:49:18 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:49:57 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:50:03 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:50:05 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:50:06 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:51:09 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:52:42 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:52:43 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:52:45 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:52:47 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:00 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:01 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:10 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:14 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:18 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:25 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:27 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:45 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:51 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:55 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:53:57 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-03-27 10:54:05 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-04-02 22:31:29 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-04-02 22:31:49 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)
+2025-04-02 22:35:57 [[31MERROR[39M]: 	uncaughtException: redisClient is not defined
+ReferenceError: redisClient is not defined
+    at file:///Users/apple/multilingual-faq-api/config/cache.js:73:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:583:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:98:5)

@@ -6,7 +6,7 @@ import {
   updateFAQ,
   deleteFAQ,
 } from './faq.controller.js';
-import { validateFAQ } from './faq.validator.js';
+import { validateCreateFAQ ,validateUpdateFAQ} from './faq.validator.js';
 import { authMiddleware, adminMiddleware } from '../middleware/authMiddleware.js';
 
 const router = express.Router();
@@ -15,8 +15,8 @@ const router = express.Router();
 router.get('/', getFAQs);
 router.get('/:id', getFAQById);
 
-router.post('/', authMiddleware, adminMiddleware, validateFAQ, createFAQ);
-router.put('/:id', authMiddleware, adminMiddleware, validateFAQ, updateFAQ);
+router.post('/', authMiddleware, adminMiddleware, validateCreateFAQ, createFAQ);
+router.put('/:id', authMiddleware, adminMiddleware, validateUpdateFAQ, updateFAQ);
 router.delete('/:id', authMiddleware, adminMiddleware, deleteFAQ);
 
 export const faqRoutes = router;

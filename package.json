@@ -2,23 +2,27 @@
     "name": "multilingual-faq-api",
     "version": "1.0.0",
     "description": "API for managing multilingual FAQs with Node.js, Express, and MongoDB",
-    "main": "src/server.mjs",
+    "main": "server.js",
     "type": "module",
     "scripts": {
-        "start": "node --experimental-modules src/server.mjs",
-        "dev": "nodemon --experimental-modules src/server.mjs",
+        "start": "node --experimental-modules server.js",
+        "dev": "nodemon --experimental-modules server.js",
         "test": "jest"
     },
     "dependencies": {
         "@google-cloud/translate": "^8.5.0",
         "axios": "^1.2.0",
+        "bcrypt": "^5.1.1",
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
         "dotenv": "^16.0.3",
         "express": "^4.18.2",
+        "express-validator": "^7.2.1",
         "joi": "^17.5.0",
         "jsonwebtoken": "^9.0.2",
         "mongoose": "^7.1.2",
+        "nodemailer": "^6.10.0",
+        "redis": "^4.7.0",
         "winston": "^3.3.3"
     },
     "devDependencies": {

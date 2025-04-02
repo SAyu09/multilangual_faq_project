@@ -1,7 +1,7 @@
 import jwt from 'jsonwebtoken';
-import { asyncHandler } from '../../utils/asyncHandler.js';
-import { ApiError } from '../../utils/apiError.js';
-import User from '../../models/User.js';
+import { asyncHandler } from "../../../utlis/acyncHandler.js";
+import { ApiError } from '../../../utlis/apiError.js';
+import {User} from '../../../models/User.js';
 
 /**
  * @desc    Middleware to verify JWT token and attach user to request object

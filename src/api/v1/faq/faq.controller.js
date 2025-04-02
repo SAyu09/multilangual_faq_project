@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
-import { cache } from '../../../config/cache.js';
-import { ApiResponse } from '../../../utils/apiResponse.js';
-import { asyncHandler } from '../../../utils/asyncHandler.js';
+import { cache } from "../../../../config/cache.js"
+import { ApiResponse } from "../../../utlis/apiResponce.js"
+import { asyncHandler } from "../../../utlis/acyncHandler.js"
 import FAQ from '../../../models/faq.js';
 
 

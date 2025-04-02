@@ -1,9 +1,9 @@
 // config/settings.js
-import { config } from 'dotenv';
-import logger from './logger.js';
+import dotenv from 'dotenv';
+import {logger} from '../src/utlis/logger.js';
 
 // Load environment variables from .env file
-config();
+dotenv.config('.env' );
 
 // Required environment variables
 const requiredEnvVars = ['MONGO_URI', 'JWT_SECRET', 'PORT'];
@@ -18,6 +18,8 @@ if (missingEnvVars.length > 0) {
 /**
  * Application settings
  */
+export const NODE_ENV = process.env.NODE_ENV || 'development';
+
 export const settings = {
   // Server settings
   port: Number(process.env.PORT) || 3000,

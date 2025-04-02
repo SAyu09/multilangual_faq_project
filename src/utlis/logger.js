@@ -1,5 +1,4 @@
 import winston from 'winston';
-
 // Define custom formats for logging
 const logFormat = winston.format.printf(({ timestamp, level, message, ...meta }) => {
   return `${timestamp} ${level}: ${message} ${

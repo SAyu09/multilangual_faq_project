@@ -3,7 +3,7 @@ import Joi from 'joi';
 /**
  * Validation schema for user registration.
  */
-export const registerSchema = Joi.object({
+export const validateRegistration = Joi.object({
   username: Joi.string()
     .alphanum()
     .min(3)
@@ -50,7 +50,7 @@ export const registerSchema = Joi.object({
 /**
  * Validation schema for user login.
  */
-export const loginSchema = Joi.object({
+export const validateLogin = Joi.object({
   email: Joi.string()
     .email()
     .trim()
@@ -84,7 +84,7 @@ export const refreshTokenSchema = Joi.object({
 /**
  * Validation schema for resetting passwords.
  */
-export const resetPasswordSchema = Joi.object({
+export const validateForgotPassword = Joi.object({
   email: Joi.string()
     .email()
     .trim()
@@ -99,7 +99,7 @@ export const resetPasswordSchema = Joi.object({
 /**
  * Validation schema for updating passwords.
  */
-export const updatePasswordSchema = Joi.object({
+export const validateResetPassword = Joi.object({
   oldPassword: Joi.string()
     .required()
     .messages({
